@@ -6,7 +6,8 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. Please refer to [Udacity Terms of Service](https://www.udacity.com/legal) for further information.
 
-所需软件
+## 所需软件
+
 本项目采用以下软件和 Python 库：
 
 Python 2.7
@@ -26,7 +27,8 @@ Jupyter使用视频教程
 sudo pip install numpy pandas matplotlib jupyter scikit-learn
 
 
-开始项目
+## 开始项目
+
 要开始这个项目，你可以访问我们的 GitHub 页面，或者点击这里直接下载最新的项目所需文件。
 
 projects/titanic_survival_exploration 文件夹包含三个文件：
